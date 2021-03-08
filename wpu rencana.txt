@@ -6,3 +6,5 @@ Program kasir
 Ada
 ADA
 Test
+Bebw
+coba
